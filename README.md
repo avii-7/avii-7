@@ -1,4 +1,4 @@
-<p align="center">![](https://res.cloudinary.com/dyolrju8j/image/upload/c_scale,h_128,w_224/v1629343357/quotes_hfhcb9.jpg)</p>
+<img align="center" src="https://res.cloudinary.com/dyolrju8j/image/upload/c_scale,h_128,w_224/v1629343357/quotes_hfhcb9.jpg" alt="bootstrap" width="40" height="40"/>
 
 <h1 align="center">Hi 👋, I'm Avii</h1>
 <h3 align="center">An ardent web-developer.</h3>
