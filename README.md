@@ -1,9 +1,11 @@
+![](https://res.cloudinary.com/dyolrju8j/image/upload/v1629343192/quotes_hfhcb9.jpg)
+
 <h1 align="center">Hi 👋, I'm Avii</h1>
 <h3 align="center">An ardent web-developer.</h3>
 
 - 🔭 I’m currently working on [Adopy](//github.com/avii1999/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/avii1999/](https://github.com/avii1999/)
+- 👨‍💻 All of my projects are available [Here](https://github.com/avii1999/)
 
 - 📫 How to reach me **avii.official00@gmail.com**
 
