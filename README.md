@@ -2,7 +2,7 @@
 <img align='right' src="https://res.cloudinary.com/dyolrju8j/image/upload/v1629392086/programmers-go-internet_ahsmuq.gif" width="230">
 <h3>An ardent web-developer.</h3>
 
-- 🔭 I’m currently working on [Adopy](//github.com/avii1999/adopy)
+- 🔭 I’m currently a student.
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/avii1999/)
 
