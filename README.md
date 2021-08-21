@@ -21,12 +21,12 @@ let avii = {
 ```
 ## 📌 Tasks
 
-- [ ] Got a job
-- [ ] Getting 7 Figure salary
-- [ ] Opened an Animal NGO
-- [ ] Married
-- [ ] Have children
-- [ ] Died peacefully
+- [ ] Got a job.
+- [ ] Getting good salary.
+- [ ] Opened an Animal NGO.
+- [ ] Married.
+- [ ] Have children.
+- [ ] Died peacefully.
 
 ### 👨‍💻 Programming languages
 
