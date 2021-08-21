@@ -4,20 +4,17 @@
 
 - 🔭 I’m currently a student.
 
-- 👨‍💻 All of my projects are available [Here](https://github.com/avii1999/)
+- 👨‍💻 Currently working on this project [Here](https://github.com/avii1999/Adopy)
 
 - 📫 How to reach me **avii.official00@gmail.com**
 
-- ⚡ Current goal to get a job.
-
 ```javascript
 let avii = {
-    callMe: "Avii" | "Ooye Avii",
+    callMe: ["Avii", "Ooye Avii"],
     interests: ["coding", "designing", "travel", "gaming"],
     nature: "calm",
-    goal: "want to be a good person"
-    },
-};
+    goal: "to be good programmer"
+    };
 ```
 ## 📌 Tasks
 
