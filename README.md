@@ -10,7 +10,7 @@
 
 ```javascript
 let avii = {
-    callMe: ["Avii", "Ooye Avii"],
+    callMe: ["Avii", "Ooye Avii","Arun"],
     interests: ["coding", "designing", "travel", "gaming"],
     nature: "calm",
     goal: "to be good programmer"
