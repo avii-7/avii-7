@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a student.
 
-- 👨‍💻 Currently working on this [project](https://github.com/avii1999/Adopy)
+- 👨‍💻 Currently working on this [project](https://github.com/avii1999/Adopy).
 
 - 📫 How to reach me **avii.official00@gmail.com**
 
