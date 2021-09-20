@@ -28,6 +28,7 @@ let avii = {
 ### 👨‍💻 Programming languages
 
 <p>
+    <img alt="Reactjs" src="https://img.shields.io/badge/Reactjs-black?logo=react&logoColor=blue">
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
