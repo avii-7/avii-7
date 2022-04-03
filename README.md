@@ -11,9 +11,9 @@
 ```javascript
 let avii = {
     callMe: ["Avii", "Ooye Avii", "Arun"],
-    interests: ["coding", "designing", "travel", "gaming"],
+    interests: ["coding", "android" ,"designing", "travel", "gaming"],
     nature: "calm",
-    goal: "to be good programmer"
+    goal: "to be good person"
     };
 ```
 ## 📌 Tasks
