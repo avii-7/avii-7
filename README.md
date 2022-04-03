@@ -20,10 +20,9 @@ let avii = {
 
 - [x] Got a job.
 - [ ] Getting good salary.
-- [ ] Opened an Animal NGO.
 - [ ] Married.
-- [ ] Have children.
-- [ ] Died peacefully.
+- [ ] Have Childrens.
+- [ ] Died Peacefully.
 
 ### 👨‍💻 Programming languages
 
