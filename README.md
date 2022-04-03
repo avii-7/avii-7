@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a student.
 
-- 👨‍💻 Currently working in (Ventla)[www.ventla.io].
+- 👨‍💻 Currently working in [Ventla](www.ventla.io).
 
 - 📫 How to reach me **avii.official00@gmail.com**
 
