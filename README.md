@@ -18,7 +18,7 @@ let avii = {
 ```
 ## 📌 Tasks
 
-- [ ] Got a job.
+- [x] Got a job.
 - [ ] Getting good salary.
 - [ ] Opened an Animal NGO.
 - [ ] Married.
