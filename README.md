@@ -13,7 +13,7 @@ let avii = {
     callMe: ["Avii", "Ooye Avii", "Arun"],
     interests: ["coding", "android" ,"designing", "travel", "gaming"],
     nature: "calm",
-    goal: "to be good person"
+    goal: "to be a good person"
     };
 ```
 ## 📌 Tasks
