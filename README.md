@@ -1,4 +1,4 @@
-<h2>Hey, I'm Avii <img src="https://media.giphy.com/media/H40GUD3NmdDwgeG82X/giphy.gif" width="25"></h2>
+<h2>Hey, I'm Avii <img src="https://media.giphy.com/media/H40GUD3NmdDwgeG82X/giphy.gif" width="25" height="27" align="center"></h2>
 
 <h3>iOS App Developer</h3>
 
@@ -9,7 +9,7 @@
 ```SWIFT
 let avii = [
     "callMe": ["Avii", "Ooye Avii", "Arun"],
-    "interests": ["coding", "android" ,"designing", "travel", "gaming"],
+    "interests": ["coding", "iOS", "designing", "travelling", "skateboarding", "gaming"],
     "nature": ["calm", "lowkey"],
     "goal": ["to be a good person"]
 ]
