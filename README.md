@@ -8,16 +8,9 @@
 
 ```SWIFT
 let avii = [
-    "callMe": ["Avii", "Ooye Avii", "Arun"],
-    "interests": ["coding", "iOS", "designing", "travelling", "skateboarding", "gaming"],
-    "nature": ["calm", "lowkey"],
-    "goal": ["to be a good person"]
+    "callMe": ["Arun", "Avii"],
+    "interests": ["coding", "iOS", "designing", "travelling", "gaming"],
+    "nature": ["calm"],
+    "goal": ["build a better world"]
 ]
 ```
-## 📌 Tasks
-
-- [x] Got a job.
-- [ ] Getting good salary.
-- [ ] Married.
-- [ ] Have Childrens.
-- [ ] Died Peacefully.
