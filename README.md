@@ -2,7 +2,7 @@
 
 <h3>iOS Developer</h3>
 
-- 👨‍💻 Currently working in [Ventla](https://www.ventla.io).
+- 👨‍💻 Currently working in [ZirohLabs](https://gozunu.com/).
 
 - 📫 MailBox **kumar.arun.ynr@gmail.com**
 
