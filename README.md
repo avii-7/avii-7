@@ -13,6 +13,6 @@ let avii = [
     "callMe": ["Arun", "Avii"],
     "interests": ["coding", "iOS", "designing", "travelling", "gaming"],
     "nature": ["calm"],
-    "goal": ["build a better world"]
+    "goal": ["Keep contributing to making this world a better place"]
 ]
 ```
