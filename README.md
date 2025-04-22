@@ -2,17 +2,16 @@
 
 <h3>iOS Developer</h3>
 
-- 👨‍💻 Currently working in [ZirohLabs](https://zunuprivacy.com/).
+- 👨‍💻 Currently working in [KukuFM](https://kukufm.com/).
 
 - 📫 MailBox **kumar.arun.ynr@gmail.com**
 
 - 🤝 Let's connect at: [Linkedin](https://www.linkedin.com/in/arunios7/)
 
 ```SWIFT
-let avii = [
+var avii = [
     "callMe": ["Arun", "Avii"],
     "interests": ["coding", "iOS", "designing", "travelling", "gaming"],
-    "nature": ["calm"],
     "goal": ["Keep contributing to making this world a better place"]
 ]
 ```
