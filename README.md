@@ -12,6 +12,6 @@
 var avii = [
     "callMe": ["Arun", "Avii"],
     "interests": ["coding", "iOS", "designing", "travelling", "gaming"],
-    "goal": ["Keep contributing to making this world a better place"]
+    "goal": ["Keep contributing to making the world a better place"]
 ]
 ```
