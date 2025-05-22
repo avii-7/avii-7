@@ -2,7 +2,7 @@
 
 <h3>iOS Developer</h3>
 
-- 👨‍💻 Currently working in [KukuFM](https://kukufm.com/).
+- 👨‍💻 Currently working at [KukuFM](https://kukufm.com/).
 
 - 📫 MailBox **kumar.arun.ynr@gmail.com**
 
