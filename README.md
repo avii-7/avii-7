@@ -6,7 +6,7 @@ public struct AboutMe {
     let name = "Arun"
     var profession = "iOS Dev @ KukuFM"
     var preferredTechStack = ["Swift", "UIKit" "SwiftUI"]
-    var hasUsed = ["react", "javascript", "C#", "Xamarin"]
+    var hasUsed = ["react", "typescript", "C#", "Xamarin"]
 }
 ```
 A big fan of Swift (it’s growing fast, and so am I!), with a soft spot for JavaScript too.
