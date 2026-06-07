@@ -5,7 +5,7 @@
 public struct AboutMe {
     let name = "Arun"
     var profession = "iOS Dev @ KukuFM"
-    var preferredTechStack = ["Swift", "UIKit" "SwiftUI"]
+    var preferredTechStack = ["Swift", "UIKit" "SwiftUI", "Vapor"]
     var hasUsed = ["react", "typescript", "C#", "Xamarin"]
 }
 ```
